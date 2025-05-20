@@ -1,0 +1,18 @@
+{
+    "high_score": 23800,
+    "boss_unlocked": true,
+    "settings": {
+        "music_volume": 0.2,
+        "sfx_volume": 0.2,
+        "difficulty": "normal",
+        "set_fps": 120
+    },
+    "upgrade_levels": {
+        "speed": 1,
+        "fire_rate": 0,
+        "max_bullets": 0,
+        "lives": 0,
+        "parry": 0,
+        "parry_cooldown": 0
+    }
+}
